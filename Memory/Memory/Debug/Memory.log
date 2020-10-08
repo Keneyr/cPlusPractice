@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\vsproject\cpluspractice\memory\memory\main.cpp(9): warning C4101: “n”: 未引用的局部变量
+  Memory.vcxproj -> E:\vsProject\cPlusPractice\Memory\Debug\Memory.exe
+  Memory.vcxproj -> E:\vsProject\cPlusPractice\Memory\Debug\Memory.pdb (Partial PDB)

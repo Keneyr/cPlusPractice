@@ -1,0 +1,7 @@
+﻿  main3.cpp
+  main2.cpp
+e:\vsproject\cpluspractice\pointer\pointer\main2.cpp(25): warning C4311: “类型转换”: 从“int *”到“unsigned int”的指针截断
+e:\vsproject\cpluspractice\pointer\pointer\main2.cpp(25): warning C4302: “类型转换”: 从“int *”到“unsigned int”截断
+  正在生成代码...
+  Pointer.vcxproj -> E:\vsProject\cPlusPractice\Pointer\x64\Debug\Pointer.exe
+  Pointer.vcxproj -> E:\vsProject\cPlusPractice\Pointer\x64\Debug\Pointer.pdb (Partial PDB)

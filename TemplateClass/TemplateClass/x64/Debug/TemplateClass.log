@@ -1,0 +1,7 @@
+﻿  main3.cpp
+  main1.cpp
+  main.cpp
+  add.cpp
+  正在生成代码...
+main3.obj : error LNK2019: 无法解析的外部符号 "int __cdecl add<int>(int const &,int const &)" (??$add@H@@YAHAEBH0@Z)，该符号在函数 main 中被引用
+E:\vsProject\cPlusPractice\TemplateClass\x64\Debug\TemplateClass.exe : fatal error LNK1120: 1 个无法解析的外部命令

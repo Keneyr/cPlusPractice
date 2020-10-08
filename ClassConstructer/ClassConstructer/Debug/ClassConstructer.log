@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\vsproject\cpluspractice\classconstructer\classconstructer\derive.h(9): error C2512: “Base”: 没有合适的默认构造函数可用
+  e:\vsproject\cpluspractice\classconstructer\classconstructer\base.h(4): note: 参见“Base”的声明

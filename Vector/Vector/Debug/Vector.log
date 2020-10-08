@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\vsproject\cpluspractice\vector\vector\main.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  Vector.vcxproj -> E:\vsProject\cPlusPractice\Vector\Debug\Vector.exe
+  Vector.vcxproj -> E:\vsProject\cPlusPractice\Vector\Debug\Vector.pdb (Partial PDB)
