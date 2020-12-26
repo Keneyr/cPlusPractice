@@ -1,0 +1,6 @@
+﻿  smrtptrs.cpp
+  main1.cpp
+d:\practice\cpluspractice\smartpointer\smartpointer\main1.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  SmartPointer.vcxproj -> D:\Practice\cPlusPractice\SmartPointer\Debug\SmartPointer.exe
+  SmartPointer.vcxproj -> D:\Practice\cPlusPractice\SmartPointer\Debug\SmartPointer.pdb (Partial PDB)
