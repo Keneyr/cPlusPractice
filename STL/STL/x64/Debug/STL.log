@@ -1,15 +1,7 @@
-﻿  main2.cpp
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(9): error C2065: “List”: 未声明的标识符
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(9): error C2062: 意外的类型“int”
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(9): error C2143: 语法错误: 缺少“;”(在“}”的前面)
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(10): error C2065: “NumberList”: 未声明的标识符
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(10): error C2228: “.Count”的左边必须有类/结构/联合
-  e:\vsproject\cpluspractice\stl\stl\main2.cpp(10): note: 类型是“unknown-type”
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(12): error C2065: “NumberList”: 未声明的标识符
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(15): error C2065: “NumberList”: 未声明的标识符
-e:\vsproject\cpluspractice\stl\stl\main2.cpp(15): error C2228: “.Remove”的左边必须有类/结构/联合
-  e:\vsproject\cpluspractice\stl\stl\main2.cpp(15): note: 类型是“unknown-type”
+﻿  main3.cpp
+  main2.cpp
   main1.cpp
   main.cpp
   正在生成代码...
+  STL.vcxproj -> D:\Practice\cPlusPractice\STL\x64\Debug\STL.exe
+  STL.vcxproj -> D:\Practice\cPlusPractice\STL\x64\Debug\STL.pdb (Partial PDB)

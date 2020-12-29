@@ -1,0 +1,4 @@
+﻿  main4.cpp
+d:\practice\cpluspractice\thisptr\thisptr\main4.cpp(22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  thisPtr.vcxproj -> D:\Practice\cPlusPractice\thisPtr\Debug\thisPtr.exe
+  thisPtr.vcxproj -> D:\Practice\cPlusPractice\thisPtr\Debug\thisPtr.pdb (Partial PDB)
